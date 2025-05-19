@@ -8,6 +8,8 @@ In diesem Repository finden sich generalisierte Geodaten zu den für die Volkssc
 
 Aktuell sind die Daten bis einschliesslich des Schuljahres 2025/26 hier publiziert.
 
+Die vorliegenden Daten umfassen sowohl die Primar- als auch die Sekundarstufe I. Aus diesem Grund und aufgrund der historischen Daten überlagern sich die Polynome mehrfach. Sowohl die zeitliche Gültigkeit als auch die Art der Organisationseinheit muss für die Darstellung jeweils beachtet werden.
+
 ### Geplante Arbeiten
 - Jährliche Aktualisierung
 
