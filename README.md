@@ -1,26 +1,14 @@
-# Arbeitstitel
+# Schulgemeindegrenzen im Kanton Zürich
 
-15.09.2022  
-Kontakt: Vorname Nachname <vorname.nachname@bi.zh>
+19.05.2025  
+Kontakt: Res Marti <res.marti@bi.zh>
 
 ### Kurzbeschreibung
-Hier folgt eine *kurze* Beschreibung, wofür das Repository angelegt wurde:  
-- Was ist das Ziel der Übung?  
-- Für wen wird die Datenauswertung erstellt?  
-- Wer ist das Zielpublikum des Berichts?  
+In diesem Repository finden sich generalisierte Geodaten zu den für die Volksschulen zurständigen Organisationseinheiten im Kanton Zürich. Die Daten dienen als Grundlage für die geografische Darstellung von Bildungsdaten in Webgrafiken. Die Daten sind historisiert und jeweils mit einer zeitlichen Gültigkeit versehen. Vereinfachend wurde angenommen, dass das Schuljahr jeweils Anfang August beginnt und im Folgejahr Ende Juli endet. Die Realität ist komplexer und formell haben sich Körperschaften teilweise auch während einem Schuljahr verändert.
 
-
-### Ablage auf dem G:/
-Hier wird festgehalten, wo sich zugehörige Dateien in der Ablage befinden:  
-- `G:\Pfadangaben_einfuegen`  
-- `G:\03_Arbeiten\irgendein_Dossier`  
-- `G:\03_Arbeiten\Projekte\etwas_spannendes`  
-
+Aktuell sind die Daten bis und mit dem Schuljahr 2025/26 hier publiziert.
 
 ### Geplante Arbeiten
-Manchmal hilft eine Liste mit den geplanten Arbeitsschritten inklusive Stand der Arbeiten:  
-- Datenabfrage erstellen/Datenquellen einlesen (OK)  
-- Daten analysieren (WIP)  
-- Resultate berichten (TODO)  
+- Jährliche Aktualisierung
 
 
